@@ -1,2 +1,2 @@
 # Java-OOP
-Basic Java programs, related resources, and also plannings.
+Basic Java programs, related resources, and planning.
